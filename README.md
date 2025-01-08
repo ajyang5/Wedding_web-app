@@ -1,4 +1,4 @@
-# Wedding (web-app)
+# Wedding RSVP (web-app)
 
 This is a Wedding RSVP web applicatio that can be used to manage wedding guest lists. Users can add guests, track dietary restrictions, and manage plus
 ones. Unit tests are included.
